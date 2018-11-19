@@ -1,0 +1,13 @@
+"locales: [zh-cn]":
+  localization:
+    mapping: Repository
+    bilingual: true
+  contribution:
+    repository: 'https://github.com/MicrosoftDocs/powerbi-docs.zh-cn#live'
+  dependencies:
+    _themes: >-
+      https://github.com/Microsoft/templates.docs.msft.ja-jp#master
+  globalMetadata:
+    feedback_github_repo: "MicrosoftDocs/powerbi-docs.zh-cn"
+  output:
+    pdf: false
