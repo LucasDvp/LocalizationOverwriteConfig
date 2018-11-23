@@ -2,13 +2,6 @@
   localization:
     mapping: Repository
     bilingual: true
-  contribution:
-    repository: 'https://github.com/MicrosoftDocs/powerbi-docs.zh-cn#live'
-  dependencies:
-    _themes: >-
-      https://github.com/Microsoft/templates.docs.msft.zh-cn#master
-  gitHub:
-    userCache: "https://opbuildstoragesandbox2.blob.core.windows.net/build-cache/github-user/cache.json?sp=rw&st=2018-11-19T07:18:03Z&se=2019-11-19T15:18:03Z&spr=https&sv=2017-11-09&sig=pH%2FYOoXbv%2B%2FNu%2FoZjmv20s4qgBcg7O4lQs2E1OSjNik%3D&sr=b"
   globalMetadata:
     feedback_github_repo: "MicrosoftDocs/powerbi-docs.zh-cn"
   output:
