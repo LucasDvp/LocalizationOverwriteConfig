@@ -6,3 +6,11 @@
     feedback_github_repo: "MicrosoftDocs/powerbi-docs.zh-cn"
   output:
     pdf: false
+"locales: [de-DE]":
+  localization:
+    mapping: Repository
+    bilingual: true
+  globalMetadata:
+    feedback_github_repo: "MicrosoftDocs/powerbi-docs.de-de"
+  output:
+    pdf: true
